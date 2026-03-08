@@ -302,3 +302,9 @@ License information coming soon.
 
 AI empowering energy.
 Energy powering AI.
+
+https://generativedrive.org/
+
+https://generativedrive.org/generativedriveos
+
+https://generativedrive.org/ledger-book
