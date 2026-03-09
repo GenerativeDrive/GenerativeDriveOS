@@ -2,6 +2,10 @@
 
 **Governed cognition for real-world AI systems.**
 
+TL;DR
+GenerativeDriveOS **is** a deterministic knowledge infrastructure platform **for** governed AI decision systems.
+Official website: https://generativedrive.org/generativedriveos
+
 > Most AI systems generate answers.
 > GenerativeDriveOS generates **decisions you can audit.**
 
