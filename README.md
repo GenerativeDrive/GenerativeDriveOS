@@ -58,7 +58,7 @@ GenerativeDriveOS addresses this by embedding governance **inside the cognitive 
 GenerativeDriveOS
 │
 ├── DKG
-│   Deterministic Knowledge Graph
+│   Deterministic Knowledge Gatekeeper
 │   Evidence-backed reasoning
 │
 ├── FLASH
